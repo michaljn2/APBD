@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBzLpf1nWU720UqwOXh9tHJKt2OL5xWy6RN5EviEIA8DzCtePazFXY7tXHk3rhyba9tQUc2lOwp/0VARQ3lO8Q==",
+  "dgSpecHash": "F1IW5nlGAwaRcu1lf9khQOjAOyydAKrjZonrWVdhxVljl2TLyUYL/kqtsqJwmFMTRp7BdiAxiXCexKMwVTmkmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\Cw10_tmp\\Cwiczenia10\\Cwiczenia10.csproj",
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\TMP_git\\APBD\\Cwiczenia10\\Cwiczenia10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\micha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

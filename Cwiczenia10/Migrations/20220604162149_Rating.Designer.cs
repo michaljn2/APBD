@@ -4,14 +4,16 @@ using Cwiczenia10.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Cwiczenia10.Migrations
 {
     [DbContext(typeof(Cwiczenia10Context))]
-    partial class Cwiczenia10ContextModelSnapshot : ModelSnapshot
+    [Migration("20220604162149_Rating")]
+    partial class Rating
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

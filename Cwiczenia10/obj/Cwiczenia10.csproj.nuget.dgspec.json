@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\Cw10_tmp\\Cwiczenia10\\Cwiczenia10.csproj": {}
+    "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\TMP_git\\APBD\\Cwiczenia10\\Cwiczenia10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\Cw10_tmp\\Cwiczenia10\\Cwiczenia10.csproj": {
+    "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\TMP_git\\APBD\\Cwiczenia10\\Cwiczenia10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\Cw10_tmp\\Cwiczenia10\\Cwiczenia10.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\TMP_git\\APBD\\Cwiczenia10\\Cwiczenia10.csproj",
         "projectName": "Cwiczenia10",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\Cw10_tmp\\Cwiczenia10\\Cwiczenia10.csproj",
+        "projectPath": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\TMP_git\\APBD\\Cwiczenia10\\Cwiczenia10.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\Cw10_tmp\\Cwiczenia10\\obj\\",
+        "outputPath": "C:\\Users\\micha\\OneDrive\\Pulpit\\APBD\\TMP_git\\APBD\\Cwiczenia10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
